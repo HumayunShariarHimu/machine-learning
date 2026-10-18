@@ -366,5 +366,5 @@ avg / total       0.70      0.71      0.71       231
 
 ## আপডেটেড নোটবুক ডাউনলোড করুন
 
-এই পর্যন্ত যত কাজ করা হয়েছে আপনি নিজে না করে থাকলেও আমার করা নোটবুকটি ডাউনলোড করে রান করে দেখতে পারেন। [ডাউনলোড করুন এখান থেকে।](https://github.com/howtocode-com-bd/ml.howtocode.com.bd/blob/master/model_performance/performance.ipynb)
+এই পর্যন্ত যত কাজ করা হয়েছে আপনি নিজে না করে থাকলেও আমার করা নোটবুকটি ডাউনলোড করে রান করে দেখতে পারেন। [ডাউনলোড করুন এখান থেকে।](https://github.com/HumayunShariarHimu/machine-learning/blob/master/model_performance/performance.ipynb)
 
