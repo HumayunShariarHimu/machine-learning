@@ -5,9 +5,6 @@
 তড়িৎ ও ইলেক্ট্রনিক কৌশল, ৪র্থ বর্ষ, খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়  
 [ইমেইল](mailto:manashmndl@gmail.com) \| [গিটহাব](http://github.com/manashmndl) \| [ফেসবুক](http://facebook.com/JackspicerPhoenix)
 
-**অন্যান্য লেখক ও কন্ট্রিবিউটরদের তালিকা**  
-[বিস্তারিত এখানে](https://github.com/howtocode-dev/ml.howtocode.dev/graphs/contributors?type=a)
-
 ### ভূমিকা
 
 **পাইথন, ম্যাটল্যাব ও জাভাস্ক্রিপ্টে প্রেডিক্টিভ মডেল বিল্ডিং ও পারফর্মেন্স টেস্টিং**
@@ -139,10 +136,6 @@
 
 এই বইটি মূলত স্বেচ্ছাশ্রমে লেখা এবং বইটি সম্পূর্ন ওপেন সোর্স । এখানে তাই আপনিও অবদান রাখতে পারেন লেখক হিসেবে । আপনার কন্ট্রিবিউশান গৃহীত হলে অবদানকারীদের তালিকায় আপনার নাম যোগ হয়ে যাবে ।
 
-এটি মূলত একটি [গিটহাব রিপোজিটোরি](https://github.com/howtocode-dev/ml.howtocode.dev) যেখানে এই বইয়ের আর্টিকেল গুলো মার্কডাউন ফরম্যাটে লেখা হচ্ছে। রিপোজিটোরিটি ফর্ক করে পুল রিকুয়েস্ট পাঠানোর মাধ্যমে আপনারাও অবদান রাখতে পারেন ।
-
 > **বর্তমানে বইটির কন্টেন্ট বিভিন্ন কন্ট্রিবিউটর এবং নানা রকম সোর্স থেকে সংগৃহীত এবং সংকলিত।**
 
-  
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
-
